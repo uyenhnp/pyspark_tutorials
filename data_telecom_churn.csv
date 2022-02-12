@@ -1,0 +1,14 @@
+customerID,gender,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+7590-VHVEG,Female,Yes,Electronic check,29.85,29.85,No
+5575-GNVDE,Male,No,,56.95,,No
+3668-QPYBK,Male,Yes,Mailed check,53.85,108.15,Yes
+7795-CFOCW,Male,No,Bank transfer (automatic),,1840.75,No
+9237-HQITU,Female,Yes,Electronic check,70.7,151.65,Yes
+9305-CDSKC,,Yes,Electronic check,99.65,820.5,Yes
+1452-KIOVK,Male,Yes,Credit card (automatic),89.1,1949.4,No
+6713-OKOMC,Female,No,Mailed check,29.75,301.9,No
+7892-POOKP,Female,Yes,Electronic check,104.8,,Yes
+6388-TABGU,Male,No,Bank transfer (automatic),56.15,3487.95,No
+9763-GRSKD,Male,,Mailed check,49.95,587.45,No
+7469-LKBCI,Male,No,Credit card (automatic),18.95,326.8,No
+8091-TTVAX,Male,No,Credit card (automatic),100.35,5681.1,No
